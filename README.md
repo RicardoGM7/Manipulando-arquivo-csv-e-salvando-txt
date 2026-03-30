@@ -19,15 +19,6 @@ O programa implementa um sistema de gerenciamento de dados acadêmicos que:
 - ✅ Suporte completo a caracteres especiais brasileiros (UTF-8)
 - ✅ Tratamento de erros para arquivos inválidos
 
-
-
-## Notas sobre a Implementação
-
-- Todos os campos são armazenados como `string` para simpler manipulação
-- O programa trata automaticamente aspas duplas nos campos CSV
-- Suporta UTF-8 para caracteres acentuados e especiais em português
-- A busca é case-sensitive (diferencia maiúsculas de minúsculas)
-
 ## Contexto
 
 Este projeto foi desenvolvido como atividade da disciplina de **Engenharia de Dados**, focando em:
