@@ -19,11 +19,5 @@ O programa implementa um sistema de gerenciamento de dados acadêmicos que:
 - ✅ Suporte completo a caracteres especiais brasileiros (UTF-8)
 - ✅ Tratamento de erros para arquivos inválidos
 
-## Contexto
 
-Este projeto foi desenvolvido como atividade da disciplina de **Engenharia de Dados**, focando em:
-- Manipulação de arquivos CSV
-- Processamento de dados em larga escala
-- Persistência de dados em arquivos
-- Implementação de classes em C++
 
